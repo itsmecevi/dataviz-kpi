@@ -1,6 +1,6 @@
 ---
-title:  "Sales KPI-part 1"
-subtitle: "Revenue"
+title:  "Revenue KPI"
+subtitle: "Revenue by certain paramater"
 author: "Cevi"
 avatar: "img/authors/wferr.png"
 image: "img/profits.png"
