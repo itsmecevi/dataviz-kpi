@@ -3,7 +3,7 @@ title:  "Sales KPI-part 1"
 subtitle: "Revenue"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/sales-revenue.jpg"
+image: "img/sales-revenue1.jpg"
 date:   15-05-2018
 ---
 ### What is Revenue ?
