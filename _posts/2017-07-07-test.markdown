@@ -16,10 +16,5 @@ All about money from sale of goods or services
 
 ### Revenue by Customer Age
 
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMDAxZGQ2MWEtMWJjZS00YTFkLTgwN2QtOTU0YWQyZTRmMzZiIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMDAxZGQ2MWEtMWJjZS00YTFkLTgwN2QtOTU0YWQyZTRmMzZiIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzFiNTk5NGYtNjY2NS00NmQ0LThmMjYtZGU4MjQyYzFlM2E2IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
