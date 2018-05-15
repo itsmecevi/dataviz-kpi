@@ -1,6 +1,6 @@
 ---
 title:  "Revenue KPI"
-subtitle: "Revenue by certain paramater"
+subtitle: ""
 author: "Cevi"
 avatar: "img/authors/cevi.jpg"
 image: "img/growth.png"
