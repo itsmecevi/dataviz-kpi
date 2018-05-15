@@ -1,9 +1,9 @@
 ---
-title:  "Test!"
-subtitle: "Test"
+title:  "Sales KPI-1!"
+subtitle: "Revenue"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/kurban.jpg"
+image: "img/sales-icon-20.png"
 date:   2015-04-20 12:12:12
 ---
 
