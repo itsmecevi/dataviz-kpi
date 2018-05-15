@@ -2,7 +2,7 @@
 title:  "Revenue KPI"
 subtitle: "Revenue by certain paramater"
 author: "Cevi"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/cevi.jpg"
 image: "img/profits.png"
 date:   15-05-2018
 ---
