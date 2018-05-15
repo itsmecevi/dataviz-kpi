@@ -14,6 +14,8 @@ All about money from sale of goods or services
 ### Data source:
 [Microsoft Program for Data Science, Obvience](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
+[The dataset](https://github.com/MicrosoftLearning/Introduction-to-Data-Analysis-using-Excel/tree/master/Module2)
+
 ### Revenue by Customer Age
 1. Revenue by customer age
 2. Revenue by state
