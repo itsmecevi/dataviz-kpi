@@ -3,7 +3,7 @@ title:  "Sales KPI-part 1"
 subtitle: "Revenue"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/sales-revenue1.jpg"
+image: "img/line-chart.png"
 date:   15-05-2018
 ---
 ### What is Revenue ?
@@ -17,6 +17,8 @@ All about money from sale of goods or services
 ### Revenue by Customer Age
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 
 
 
