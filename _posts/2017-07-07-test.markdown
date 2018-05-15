@@ -3,7 +3,7 @@ title:  "Sales KPI-1"
 subtitle: "Revenue"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/sales-revenue.png"
+image: "img/sales-revenue.jpg"
 date:   15-05-2018
 ---
 ### Dolor sit amet?
