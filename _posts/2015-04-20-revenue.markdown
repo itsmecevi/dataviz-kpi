@@ -15,14 +15,12 @@ All about money from sale of goods or services
 [Microsoft Program for Data Science, Obvience](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
 ### Revenue by Customer Age
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+1. Revenue by customer age
+2. Revenue by state
+3. Revenue growth
+4. Revenue by country
+5. Revenue by category
+6. Revenue KPI (Key Performances Indicator)
 
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
