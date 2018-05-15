@@ -3,7 +3,7 @@ title:  "Sales KPI-part 1"
 subtitle: "Revenue"
 author: "Cevi"
 avatar: "img/authors/wferr.png"
-image: "img/chart-line.jpg"
+image: "img/profits.png"
 date:   15-05-2018
 ---
 
