@@ -22,3 +22,7 @@ All about money from sale of goods or services
 
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
