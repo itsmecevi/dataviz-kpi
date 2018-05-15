@@ -14,6 +14,7 @@ date:   15-05-2018
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOThlMDc4NGMtYzUyYS00ZWRkLWIyNzMtNWM0NDNhNWY2ZWRlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ### Aliquam suscipit.
+[Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/): Introduction to Data Science
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
