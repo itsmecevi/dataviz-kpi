@@ -1,10 +1,10 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "Sales KPI-part 1"
+subtitle: "Revenue"
+author: "Cevi"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+image: "img/sales-revenue.jpg"
+date:   15-05-2018 
 ---
 
 ### Dolor sit amet?
