@@ -3,18 +3,19 @@ title:  "Revenue KPI"
 subtitle: "Revenue by certain paramater"
 author: "Cevi"
 avatar: "img/authors/cevi.jpg"
-image: "img/money.jpg"
+image: "img/money1.jpg"
 date:   15-05-2018
 ---
 
-### What is Revenue?
-All about money from sale of goods or services
+### What is Profit?
+The real money after accounting cost
 
+Profit:=sales-cost
 
 ### Data source:
 [Microsoft Program for Data Science, Obvience](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 
-[The dataset](https://github.com/MicrosoftLearning/Introduction-to-Data-Analysis-using-Excel/tree/master/Module2)
+[The dataset](https://github.com/MicrosoftLearning/Introduction-to-Data-Analysis-using-Excel/tree/master/Module3)
 
 ### Revenue by Customer Age
 1. Revenue by customer age
