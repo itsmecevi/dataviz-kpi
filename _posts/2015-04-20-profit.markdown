@@ -17,13 +17,12 @@ Profit:=sales-cost
 
 [The dataset](https://github.com/MicrosoftLearning/Introduction-to-Data-Analysis-using-Excel/tree/master/Module3)
 
-### Revenue by Customer Age
-1. Revenue by customer age
-2. Revenue by state
-3. Revenue growth
-4. Revenue by country
-5. Revenue by category
-6. Revenue KPI (Key Performances Indicator)
+### Profit:
+1. Profit by age group
+2. Profit by gender
+3. Profit vs revenue by age group
+4. Profit by product
+5. Profit-KPI (Key Performance Indicator
 
 
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYjljNDFmNTEtYjYzYS00ODBhLWI0Y2YtN2U5ZWNjZTY2NjBlIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiN2Y4ODQ2OWEtNWI4YS00ODVmLTgzZDktYmFjMDkyN2FlMGE0IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
