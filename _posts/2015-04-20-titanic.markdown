@@ -1,14 +1,14 @@
 ---
-title:  "Berlin KPI"
-subtitle: ""
+title:  "Titanic"
+subtitle: "Titanic Sinking & Survivor"
 author: "Cevi"
 avatar: "img/authors/cevi.jpg"
 image: "img/titanic.png"
 date:   16-05-2018
 ---
 
-### Where is berlin?
-The quantity of goods or services sold in a given time period
+### Titanic tragedy
+RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912
 
 
 ### Data source:
