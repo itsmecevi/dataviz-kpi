@@ -3,7 +3,7 @@ title:  "Indonesia Stat"
 subtitle: ""
 author: "Cevi"
 avatar: "img/authors/cevi.jpg"
-image: "img/indonesia1.jpg"
+image: "img/indonesia3.jpg"
 date:   16-05-2018
 ---
 
