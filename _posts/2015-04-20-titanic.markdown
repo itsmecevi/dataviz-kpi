@@ -16,15 +16,10 @@ RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean 
 
 [The dataset](https://www.kaggle.com/c/titanic/data)
 
-### Norway Car sales data:
-1. Quantity model
-2. Quantity manufacture (BMW, VW, etc)
-3. Quantity manufacture vs model
-4. Yearly manufacture sales
-5. Bensin vs diesel c02 emission
-6. All falling down
-7. Year over year quantity
-8. hybrid vs diesel vs electric quantity
+### Titanic tragedy:
+1. Survived by ticket class
+2. Survived by sex
+3. Average age of survived
+4. Survived Titanic KPI
 
-<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMDY2NTdjMzUtYjA5MC00MmEyLWEzMDQtOTdkOTlmMTNiZjQ1IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiZTUxN2E3ODYtZDI2My00YWE3LWEwZTAtZWUxZTY3ZDE0Y2ZiIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
