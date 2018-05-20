@@ -1,7 +1,7 @@
 ---
 title:  "Indonesia Stat"
 subtitle: ""
-author: "Cevi"
+author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
 image: "img/batik.png"
 date:   16-05-2018
