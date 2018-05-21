@@ -3,7 +3,7 @@ title:  "Indonesia Stat"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/batik.png"
+image: "img/indonesiabw.png"
 date:   16-05-2018
 ---
 
