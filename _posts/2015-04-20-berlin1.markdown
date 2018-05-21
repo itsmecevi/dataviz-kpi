@@ -11,9 +11,9 @@ date:   16-05-2018
 ### Data source:
 
 
-###[Federal Statistical Office of Germany](https://www.destatis.de/EN/Homepage.html) &
+ [Federal Statistical Office of Germany](https://www.destatis.de/EN/Homepage.html) &
 
-###[Statista](https://www.statista.com/)
+ [Statista](https://www.statista.com/)
 
 
 ### All about Berlin:
@@ -27,9 +27,18 @@ date:   16-05-2018
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiN2I3OWJlMmYtM2MxMi00N2ZjLTkyMWEtODQxODM0MDA5OWJkIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 
+2. Economy
+
+#Berlin BIP (Brutto Inlands Products)
+#Berlin unemploymentsrate
+#Year over year BIP (Brutto Inlands Products)
+#Young unemploymentsrate
+#Berlin economy KPI
 
 
-2. Quantity manufacture (BMW, VW, etc)
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYzQ1NjFjMDMtZDRmNS00MTEzLThmYTctODUzZmNlODg5NGI1IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 3. Quantity manufacture vs model
 4. Yearly manufacture sales
 5. Bensin vs diesel c02 emission
