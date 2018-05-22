@@ -28,6 +28,25 @@ date:   16-05-2018
  <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMzY5M2NmM2MtYzUyYi00MzVjLTkzNjYtMDQ4NmUzYzgzNTJmIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
  
 
+# 2. Economy and the Prediction
+
+#Balance of trade
+#Doing business ranking 
+#Export country destination
+#Export of goods
+#GDP
+#GDP per person
+#GDP share sectors
+#Importier country
+#Import of goods
+#Indonesia GDP vs world total GDP
+#Unemploymentsrate
+#Year over GDP
+#Year over year inflations
+
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNzYzMzc1ZGItMmQ1YS00YTRjLWIzNDUtNzk1Zjg0OGMwNGRmIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 
