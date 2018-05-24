@@ -2,7 +2,7 @@
 title:  "Berlin Stat"
 subtitle: ""
 author: "Cevi Herdian"
-avatar: "img/authors/moon-2-512.gif"
+avatar: "img/authors/cevi-min.JPG"
 image: "img/berlin.png"
 date:   16-05-2018
 ---
