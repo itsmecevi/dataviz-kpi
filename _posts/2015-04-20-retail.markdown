@@ -12,7 +12,7 @@ Retail is the process of selling consumer goods or services to customers through
 
 
 ### Data source:
-Please read the [Doku at Github](https://github.com/itsmecevi/retail-analysis-sample)
+Please click the link: [Doku at Github](https://github.com/itsmecevi/retail-analysis-sample)
 
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNTAyNGJhMzAtM2FjYS00NGEwLWI1M2YtN2NhMmFmYTQyOWYzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
