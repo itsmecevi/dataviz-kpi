@@ -1,1 +1,18 @@
+---
+title:  "Retail Analysis KPI"
+subtitle: ""
+author: "Cevi Herdian"
+avatar: "img/authors/cevi.jpg"
+image: "img/retail.png"
+date:   15-05-2018
+---
 
+### What is Retail?
+Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. (wikipedia.com)
+
+
+### Data source:
+Please read the [Doku at Github](https://github.com/itsmecevi/retail-analysis-sample)
+
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiNTAyNGJhMzAtM2FjYS00NGEwLWI1M2YtN2NhMmFmYTQyOWYzIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
