@@ -7,7 +7,7 @@ image: "img/customer-profit.png"
 date:   02-06-2018
 ---
 
-### What Customer Profitability?
+### What is Customer Profitability?
 Customer profitability (CP) is the profit the firm makes from serving a customer over a specified period of time, specifically the difference between the revenues earned from and the costs associated with the customer relationship in a specified period. (wikipedia.com)
 
 
