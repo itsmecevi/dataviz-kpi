@@ -3,7 +3,7 @@ title:  "IT Spend KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/it-spend.jpg"
+image: "img/it-spend1.png"
 date:   03-06-2018
 ---
 
