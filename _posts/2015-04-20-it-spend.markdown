@@ -1,0 +1,17 @@
+---
+title:  "IT Spend KPI"
+subtitle: ""
+author: "Cevi Herdian"
+avatar: "img/authors/cevi.jpg"
+image: "img/it-spend.jpg"
+date:   03-06-2018
+---
+
+### What Customer Profitability?
+IT spend is the amount of money or time spent on information technology systems and services
+
+### Data source:
+Please click the link: [Doku at Github](https://github.com/itsmecevi/it-spend-analysis-sample)
+
+
+
