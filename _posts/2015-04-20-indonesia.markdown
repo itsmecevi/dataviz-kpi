@@ -50,12 +50,18 @@ date:   16-05-2018
 
 # 3. Finance
 
-#debt & saldo
-#debt
-#saldo
+#Debt & saldo
+#Debt
+#Saldo
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMzg1Y2Q3NDUtOWZlYi00ZTJjLWJiZTUtZGM2M2FlYTIyYmYwIiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 # 4. International 
 
+#Remittence
+#Area
+#Population
+#Development index
+
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiOWI2MDVjMTktNDBjNC00NTI5LTk1MWMtNjE4ODAxZjFhN2M3IiwidCI6IjU3NTMyN2Q0LTBmNGMtNGI5ZS1hNzE4LWQwOTViMWMyMzdiNSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
