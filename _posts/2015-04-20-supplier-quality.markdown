@@ -1,5 +1,5 @@
 ---
-title:  "Retail Analysis KPI"
+title:  "Supplier Analysis KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
