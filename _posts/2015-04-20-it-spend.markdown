@@ -7,7 +7,7 @@ image: "img/it-spend1.png"
 date:   03-06-2018
 ---
 
-### What Customer Profitability?
+### What is IT Spend?
 IT spend is the amount of money or time spent on information technology systems and services
 
 ### Data source:
