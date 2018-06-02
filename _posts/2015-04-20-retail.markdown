@@ -4,7 +4,7 @@ subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
 image: "img/retail.png"
-date:   15-05-2018
+date:   01-06-2018
 ---
 
 ### What is Retail?
