@@ -3,7 +3,7 @@ title:  "Procurement Analysis KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/procurement.png"
+image: "img/procurement1.png"
 date:   03-06-2018
 ---
 
