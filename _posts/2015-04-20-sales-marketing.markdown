@@ -3,7 +3,7 @@ title:  "Sales & Marketing Analysis KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/sales-marketing.jpg"
+image: "img/marketing.png"
 date:   03-06-2018
 ---
 
