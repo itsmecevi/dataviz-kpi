@@ -3,7 +3,7 @@ title:  "Customer Profitability KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/crm.png"
+image: "img/contract.png"
 date:   02-06-2018
 ---
 
