@@ -3,7 +3,7 @@ title:  "Opportunity Analysis KPI"
 subtitle: ""
 author: "Cevi Herdian"
 avatar: "img/authors/cevi.jpg"
-image: "img/opportunity.png"
+image: "img/opportunity1.png"
 date:   03-06-2018
 ---
 
